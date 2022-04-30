@@ -1,0 +1,15 @@
+C:\Users\smart\RiderProjects\Solution1\TourDeFrance\obj\Debug\net6.0\TourDeFrance.csproj.AssemblyReference.cache
+C:\Users\smart\RiderProjects\Solution1\TourDeFrance\obj\Debug\net6.0\TourDeFrance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smart\RiderProjects\Solution1\TourDeFrance\obj\Debug\net6.0\TourDeFrance.AssemblyInfoInputs.cache
+C:\Users\smart\RiderProjects\Solution1\TourDeFrance\obj\Debug\net6.0\TourDeFrance.AssemblyInfo.cs
+C:\Users\smart\RiderProjects\Solution1\TourDeFrance\obj\Debug\net6.0\TourDeFrance.csproj.CoreCompileInputs.cache
+C:\Users\smart\RiderProjects\Solution1\TourDeFrance\bin\Debug\net6.0\TourDeFrance.exe
+C:\Users\smart\RiderProjects\Solution1\TourDeFrance\bin\Debug\net6.0\TourDeFrance.deps.json
+C:\Users\smart\RiderProjects\Solution1\TourDeFrance\bin\Debug\net6.0\TourDeFrance.runtimeconfig.json
+C:\Users\smart\RiderProjects\Solution1\TourDeFrance\bin\Debug\net6.0\TourDeFrance.dll
+C:\Users\smart\RiderProjects\Solution1\TourDeFrance\bin\Debug\net6.0\TourDeFrance.pdb
+C:\Users\smart\RiderProjects\Solution1\TourDeFrance\obj\Debug\net6.0\TourDeFrance.dll
+C:\Users\smart\RiderProjects\Solution1\TourDeFrance\obj\Debug\net6.0\refint\TourDeFrance.dll
+C:\Users\smart\RiderProjects\Solution1\TourDeFrance\obj\Debug\net6.0\TourDeFrance.pdb
+C:\Users\smart\RiderProjects\Solution1\TourDeFrance\obj\Debug\net6.0\TourDeFrance.genruntimeconfig.cache
+C:\Users\smart\RiderProjects\Solution1\TourDeFrance\obj\Debug\net6.0\ref\TourDeFrance.dll
